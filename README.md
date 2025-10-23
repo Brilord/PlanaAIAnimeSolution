@@ -11,7 +11,7 @@ Got it — here’s the refined `README.md` version, keeping the tone sleek and 
 A lightweight, transparent AI client built for developers who love clean interfaces and a touch of anime-inspired calm.
 It blends productivity tools, deep AI integration, and an atmospheric visual layer — turning your workspace into something that actually *feels* alive.
 
-![screenshot](./1a2ea737-979e-4d4e-a2fa-9375f17c6934.png)
+![screenshot](PlanaAIIntegrationBackground.jpg)
 
 ---
 
